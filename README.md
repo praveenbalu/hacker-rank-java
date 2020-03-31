@@ -6,16 +6,23 @@
 </p>
 
 * [Problem Solving](#problem-solving)
+* [Data Structures](#data-structures)
 
-Do you want to import the project in IDE? [Yes](#import-to-ide)
+Do you want to import the project in IDE? [YES](#import-to-ide) / [NO](#problem-solving)
 
 ### Problem Solving
 
 | Challenge       | Solution    | 
 | :------------- | -----------: |
-|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution.java](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|
-|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) |[Solution.java](https://www.hackerrank.com/challenges/balanced-brackets/problem) |
+|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution.java](https://github.com/praveenbalu/hacker-rank-java/blob/master/src/Problem%20Solving/a_very_big_sum/Solution.java)|
 
+
+
+### Data Structures
+
+| Challenge       | Solution    | 
+| :------------- | -----------: |
+|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) |[Solution.java](https://github.com/praveenbalu/hacker-rank-java/blob/master/src/Data%20Structures/a_very_big_sum/Solution.java) |
 
 ### Import to IDE
 > You can import the project directly in [Eclipse](https://www.eclipse.org/) or [IntelliJ](https://www.jetbrains.com/idea/) 
