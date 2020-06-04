@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/RodneyShag">
+    <a href="https://www.hackerrank.com/praveen_itian">
         <img height=85 src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg">
     </a>
-    <br>Solutions to HackerRank problems in Java
+    <br>My Solutions to HackerRank problems in Java
 </p>
 
 * [Algorithms](#algorithms)
@@ -31,9 +31,8 @@ Do you want to import the project in IDE? [YES](#import-to-ide) / [NO](#algorith
 |[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) |[Solution.java](https://github.com/praveenbalu/hacker-rank-java/blob/master/src/Data%20Structures/balanced_brackets/Solution.java) |
 |[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) |[Solution.java](https://github.com/praveenbalu/hacker-rank-java/blob/master/src/Data%20Structures/cycle_detection/Solution.java) |
 
-https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 ### Import to IDE
-> You can import the project directly in [Eclipse](https://www.eclipse.org/) or [IntelliJ](https://www.jetbrains.com/idea/) <br>
+> You can import the project directly in any IDE like [Eclipse](https://www.eclipse.org/) or [IntelliJ](https://www.jetbrains.com/idea/) <br>
 > Clone the repository as Java project and add domains as your source folder.<br>
 > Example : to include [Algorithms](#algorithms), add it as a source folder
 
